@@ -235,8 +235,7 @@
         227,
         228,
         229,
-        230,
-        231
+        230
       ],
       "OverwriteOutputs": false,
       "DebugActionIndex": 0
@@ -422,17 +421,29 @@
       "DebugActionIndex": 15
     },
     {
+      "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/sharedassets1.assets.resS",
+      "DisplayName": "Copying sharedassets1.assets.resS",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Win64/Data/sharedassets1.assets.resS"
+      ],
+      "Outputs": [
+        "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/sharedassets1.assets.resS"
+      ],
+      "DebugActionIndex": 16
+    },
+    {
       "Annotation": "WriteText Library/Bee/artifacts/csharpactions/boot.config_tyr4.info",
       "DisplayName": "Writing boot.config_tyr4.info",
       "ActionType": "WriteFile",
       "PayloadOffset": 83,
-      "PayloadLength": 16678,
+      "PayloadLength": 16825,
       "PayloadDebugContentSnippet": "{\"System.Object\":null,\"Bee.Tun",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/csharpactions/boot.config_tyr4.info"
       ],
-      "DebugActionIndex": 16
+      "DebugActionIndex": 17
     },
     {
       "Annotation": "AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config",
@@ -456,6 +467,7 @@
         "Library/PlayerDataCache/Win64/Data/sharedassets0.assets",
         "Library/PlayerDataCache/Win64/Data/sharedassets0.assets.resS",
         "Library/PlayerDataCache/Win64/Data/sharedassets1.assets",
+        "Library/PlayerDataCache/Win64/Data/sharedassets1.assets.resS",
         "C:/Program Files/Unity/Hub/Editor/2022.3.27f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.AIModule.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.27f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.ARModule.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.27f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.AccessibilityModule.dll",
@@ -524,21 +536,20 @@
         "C:/Program Files/Unity/Hub/Editor/2022.3.27f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.WindModule.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.27f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.XRModule.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.27f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.dll",
-        "C:/Users/shuku/Desktop/unity dosylar/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.dll",
-        "C:/Users/shuku/Desktop/unity dosylar/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.dll",
-        "C:/Users/shuku/Desktop/unity dosylar/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll",
-        "C:/Users/shuku/Desktop/unity dosylar/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.dll",
-        "C:/Users/shuku/Desktop/unity dosylar/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/PhotonChat.dll",
-        "C:/Users/shuku/Desktop/unity dosylar/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/PhotonRealtime.dll",
-        "C:/Users/shuku/Desktop/unity dosylar/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.dll",
-        "C:/Users/shuku/Desktop/unity dosylar/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/PhotonUnityNetworking.dll",
-        "C:/Users/shuku/Desktop/unity dosylar/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/PhotonUnityNetworking.Demos.dll",
-        "C:/Users/shuku/Desktop/unity dosylar/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/PhotonUnityNetworking.Utilities.dll",
-        "C:/Users/shuku/Desktop/unity dosylar/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll",
-        "C:/Users/shuku/Desktop/unity dosylar/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.dll",
-        "C:/Users/shuku/Desktop/unity dosylar/Trust and Treachery/Assets/Photon/PhotonLibs/WebSocket/websocket-sharp.dll",
-        "C:/Users/shuku/Desktop/unity dosylar/Trust and Treachery/Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll",
-        "C:/Users/shuku/Desktop/unity dosylar/Trust and Treachery/Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.dll",
+        "C:/Users/shuku/Documents/GitHub/Trust-and-Treachery/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.dll",
+        "C:/Users/shuku/Documents/GitHub/Trust-and-Treachery/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.dll",
+        "C:/Users/shuku/Documents/GitHub/Trust-and-Treachery/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll",
+        "C:/Users/shuku/Documents/GitHub/Trust-and-Treachery/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.dll",
+        "C:/Users/shuku/Documents/GitHub/Trust-and-Treachery/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/PhotonChat.dll",
+        "C:/Users/shuku/Documents/GitHub/Trust-and-Treachery/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/PhotonRealtime.dll",
+        "C:/Users/shuku/Documents/GitHub/Trust-and-Treachery/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.dll",
+        "C:/Users/shuku/Documents/GitHub/Trust-and-Treachery/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/PhotonUnityNetworking.dll",
+        "C:/Users/shuku/Documents/GitHub/Trust-and-Treachery/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/PhotonUnityNetworking.Utilities.dll",
+        "C:/Users/shuku/Documents/GitHub/Trust-and-Treachery/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll",
+        "C:/Users/shuku/Documents/GitHub/Trust-and-Treachery/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.dll",
+        "C:/Users/shuku/Documents/GitHub/Trust-and-Treachery/Trust and Treachery/Assets/Photon/PhotonLibs/WebSocket/websocket-sharp.dll",
+        "C:/Users/shuku/Documents/GitHub/Trust-and-Treachery/Trust and Treachery/Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll",
+        "C:/Users/shuku/Documents/GitHub/Trust-and-Treachery/Trust and Treachery/Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.27f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32/Facades/netstandard.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.27f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32/Mono.Security.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.27f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32/System.ComponentModel.Composition.dll",
@@ -601,12 +612,12 @@
         "Library/Bee/artifacts/WinPlayerBuildProgram/boot.config"
       ],
       "ToBuildDependencies": [
-        16
+        17
       ],
       "OverwriteOutputs": false,
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 17
+      "DebugActionIndex": 18
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/boot.config",
@@ -619,9 +630,9 @@
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/boot.config"
       ],
       "ToBuildDependencies": [
-        17
+        18
       ],
-      "DebugActionIndex": 18
+      "DebugActionIndex": 19
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.AIModule.dll",
@@ -633,7 +644,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.AIModule.dll"
       ],
-      "DebugActionIndex": 19
+      "DebugActionIndex": 20
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.ARModule.dll",
@@ -645,7 +656,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.ARModule.dll"
       ],
-      "DebugActionIndex": 20
+      "DebugActionIndex": 21
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.AccessibilityModule.dll",
@@ -657,7 +668,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.AccessibilityModule.dll"
       ],
-      "DebugActionIndex": 21
+      "DebugActionIndex": 22
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.AndroidJNIModule.dll",
@@ -669,7 +680,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.AndroidJNIModule.dll"
       ],
-      "DebugActionIndex": 22
+      "DebugActionIndex": 23
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.AnimationModule.dll",
@@ -681,7 +692,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.AnimationModule.dll"
       ],
-      "DebugActionIndex": 23
+      "DebugActionIndex": 24
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.AssetBundleModule.dll",
@@ -693,7 +704,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.AssetBundleModule.dll"
       ],
-      "DebugActionIndex": 24
+      "DebugActionIndex": 25
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.AudioModule.dll",
@@ -705,7 +716,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.AudioModule.dll"
       ],
-      "DebugActionIndex": 25
+      "DebugActionIndex": 26
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.ClothModule.dll",
@@ -717,7 +728,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.ClothModule.dll"
       ],
-      "DebugActionIndex": 26
+      "DebugActionIndex": 27
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.ClusterInputModule.dll",
@@ -729,7 +740,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.ClusterInputModule.dll"
       ],
-      "DebugActionIndex": 27
+      "DebugActionIndex": 28
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.ClusterRendererModule.dll",
@@ -741,7 +752,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.ClusterRendererModule.dll"
       ],
-      "DebugActionIndex": 28
+      "DebugActionIndex": 29
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.ContentLoadModule.dll",
@@ -753,7 +764,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.ContentLoadModule.dll"
       ],
-      "DebugActionIndex": 29
+      "DebugActionIndex": 30
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.CoreModule.dll",
@@ -765,7 +776,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.CoreModule.dll"
       ],
-      "DebugActionIndex": 30
+      "DebugActionIndex": 31
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.CrashReportingModule.dll",
@@ -777,7 +788,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.CrashReportingModule.dll"
       ],
-      "DebugActionIndex": 31
+      "DebugActionIndex": 32
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.DSPGraphModule.dll",
@@ -789,7 +800,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.DSPGraphModule.dll"
       ],
-      "DebugActionIndex": 32
+      "DebugActionIndex": 33
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.DirectorModule.dll",
@@ -801,7 +812,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.DirectorModule.dll"
       ],
-      "DebugActionIndex": 33
+      "DebugActionIndex": 34
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.GIModule.dll",
@@ -813,7 +824,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.GIModule.dll"
       ],
-      "DebugActionIndex": 34
+      "DebugActionIndex": 35
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.GameCenterModule.dll",
@@ -825,7 +836,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.GameCenterModule.dll"
       ],
-      "DebugActionIndex": 35
+      "DebugActionIndex": 36
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.GridModule.dll",
@@ -837,7 +848,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.GridModule.dll"
       ],
-      "DebugActionIndex": 36
+      "DebugActionIndex": 37
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.HotReloadModule.dll",
@@ -849,7 +860,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.HotReloadModule.dll"
       ],
-      "DebugActionIndex": 37
+      "DebugActionIndex": 38
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.IMGUIModule.dll",
@@ -861,7 +872,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.IMGUIModule.dll"
       ],
-      "DebugActionIndex": 38
+      "DebugActionIndex": 39
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.ImageConversionModule.dll",
@@ -873,7 +884,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.ImageConversionModule.dll"
       ],
-      "DebugActionIndex": 39
+      "DebugActionIndex": 40
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.InputLegacyModule.dll",
@@ -885,7 +896,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.InputLegacyModule.dll"
       ],
-      "DebugActionIndex": 40
+      "DebugActionIndex": 41
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.InputModule.dll",
@@ -897,7 +908,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.InputModule.dll"
       ],
-      "DebugActionIndex": 41
+      "DebugActionIndex": 42
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.JSONSerializeModule.dll",
@@ -909,7 +920,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.JSONSerializeModule.dll"
       ],
-      "DebugActionIndex": 42
+      "DebugActionIndex": 43
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.LocalizationModule.dll",
@@ -921,7 +932,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.LocalizationModule.dll"
       ],
-      "DebugActionIndex": 43
+      "DebugActionIndex": 44
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.NVIDIAModule.dll",
@@ -933,7 +944,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.NVIDIAModule.dll"
       ],
-      "DebugActionIndex": 44
+      "DebugActionIndex": 45
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.ParticleSystemModule.dll",
@@ -945,7 +956,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.ParticleSystemModule.dll"
       ],
-      "DebugActionIndex": 45
+      "DebugActionIndex": 46
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.PerformanceReportingModule.dll",
@@ -957,7 +968,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.PerformanceReportingModule.dll"
       ],
-      "DebugActionIndex": 46
+      "DebugActionIndex": 47
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.Physics2DModule.dll",
@@ -969,7 +980,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.Physics2DModule.dll"
       ],
-      "DebugActionIndex": 47
+      "DebugActionIndex": 48
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.PhysicsModule.dll",
@@ -981,7 +992,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.PhysicsModule.dll"
       ],
-      "DebugActionIndex": 48
+      "DebugActionIndex": 49
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.ProfilerModule.dll",
@@ -993,7 +1004,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.ProfilerModule.dll"
       ],
-      "DebugActionIndex": 49
+      "DebugActionIndex": 50
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.PropertiesModule.dll",
@@ -1005,7 +1016,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.PropertiesModule.dll"
       ],
-      "DebugActionIndex": 50
+      "DebugActionIndex": 51
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll",
@@ -1017,7 +1028,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll"
       ],
-      "DebugActionIndex": 51
+      "DebugActionIndex": 52
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.ScreenCaptureModule.dll",
@@ -1029,7 +1040,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.ScreenCaptureModule.dll"
       ],
-      "DebugActionIndex": 52
+      "DebugActionIndex": 53
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.SharedInternalsModule.dll",
@@ -1041,7 +1052,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.SharedInternalsModule.dll"
       ],
-      "DebugActionIndex": 53
+      "DebugActionIndex": 54
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.SpriteMaskModule.dll",
@@ -1053,7 +1064,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.SpriteMaskModule.dll"
       ],
-      "DebugActionIndex": 54
+      "DebugActionIndex": 55
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.SpriteShapeModule.dll",
@@ -1065,7 +1076,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.SpriteShapeModule.dll"
       ],
-      "DebugActionIndex": 55
+      "DebugActionIndex": 56
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.StreamingModule.dll",
@@ -1077,7 +1088,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.StreamingModule.dll"
       ],
-      "DebugActionIndex": 56
+      "DebugActionIndex": 57
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.SubstanceModule.dll",
@@ -1089,7 +1100,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.SubstanceModule.dll"
       ],
-      "DebugActionIndex": 57
+      "DebugActionIndex": 58
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.SubsystemsModule.dll",
@@ -1101,7 +1112,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.SubsystemsModule.dll"
       ],
-      "DebugActionIndex": 58
+      "DebugActionIndex": 59
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.TLSModule.dll",
@@ -1113,7 +1124,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.TLSModule.dll"
       ],
-      "DebugActionIndex": 59
+      "DebugActionIndex": 60
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.TerrainModule.dll",
@@ -1125,7 +1136,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.TerrainModule.dll"
       ],
-      "DebugActionIndex": 60
+      "DebugActionIndex": 61
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.TerrainPhysicsModule.dll",
@@ -1137,7 +1148,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.TerrainPhysicsModule.dll"
       ],
-      "DebugActionIndex": 61
+      "DebugActionIndex": 62
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll",
@@ -1149,7 +1160,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll"
       ],
-      "DebugActionIndex": 62
+      "DebugActionIndex": 63
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll",
@@ -1161,7 +1172,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll"
       ],
-      "DebugActionIndex": 63
+      "DebugActionIndex": 64
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.TextRenderingModule.dll",
@@ -1173,7 +1184,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.TextRenderingModule.dll"
       ],
-      "DebugActionIndex": 64
+      "DebugActionIndex": 65
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.TilemapModule.dll",
@@ -1185,7 +1196,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.TilemapModule.dll"
       ],
-      "DebugActionIndex": 65
+      "DebugActionIndex": 66
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.UIElementsModule.dll",
@@ -1197,7 +1208,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.UIElementsModule.dll"
       ],
-      "DebugActionIndex": 66
+      "DebugActionIndex": 67
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.UIModule.dll",
@@ -1209,7 +1220,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.UIModule.dll"
       ],
-      "DebugActionIndex": 67
+      "DebugActionIndex": 68
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.UmbraModule.dll",
@@ -1221,7 +1232,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.UmbraModule.dll"
       ],
-      "DebugActionIndex": 68
+      "DebugActionIndex": 69
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll",
@@ -1233,7 +1244,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll"
       ],
-      "DebugActionIndex": 69
+      "DebugActionIndex": 70
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.UnityAnalyticsModule.dll",
@@ -1245,7 +1256,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.UnityAnalyticsModule.dll"
       ],
-      "DebugActionIndex": 70
+      "DebugActionIndex": 71
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.UnityConnectModule.dll",
@@ -1257,7 +1268,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.UnityConnectModule.dll"
       ],
-      "DebugActionIndex": 71
+      "DebugActionIndex": 72
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.UnityCurlModule.dll",
@@ -1269,7 +1280,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.UnityCurlModule.dll"
       ],
-      "DebugActionIndex": 72
+      "DebugActionIndex": 73
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.UnityTestProtocolModule.dll",
@@ -1281,7 +1292,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.UnityTestProtocolModule.dll"
       ],
-      "DebugActionIndex": 73
+      "DebugActionIndex": 74
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll",
@@ -1293,7 +1304,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll"
       ],
-      "DebugActionIndex": 74
+      "DebugActionIndex": 75
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll",
@@ -1305,7 +1316,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll"
       ],
-      "DebugActionIndex": 75
+      "DebugActionIndex": 76
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.UnityWebRequestModule.dll",
@@ -1317,7 +1328,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.UnityWebRequestModule.dll"
       ],
-      "DebugActionIndex": 76
+      "DebugActionIndex": 77
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll",
@@ -1329,7 +1340,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll"
       ],
-      "DebugActionIndex": 77
+      "DebugActionIndex": 78
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll",
@@ -1341,7 +1352,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll"
       ],
-      "DebugActionIndex": 78
+      "DebugActionIndex": 79
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.VFXModule.dll",
@@ -1353,7 +1364,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.VFXModule.dll"
       ],
-      "DebugActionIndex": 79
+      "DebugActionIndex": 80
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.VRModule.dll",
@@ -1365,7 +1376,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.VRModule.dll"
       ],
-      "DebugActionIndex": 80
+      "DebugActionIndex": 81
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.VehiclesModule.dll",
@@ -1377,7 +1388,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.VehiclesModule.dll"
       ],
-      "DebugActionIndex": 81
+      "DebugActionIndex": 82
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.VideoModule.dll",
@@ -1389,7 +1400,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.VideoModule.dll"
       ],
-      "DebugActionIndex": 82
+      "DebugActionIndex": 83
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.VirtualTexturingModule.dll",
@@ -1401,7 +1412,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.VirtualTexturingModule.dll"
       ],
-      "DebugActionIndex": 83
+      "DebugActionIndex": 84
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.WindModule.dll",
@@ -1413,7 +1424,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.WindModule.dll"
       ],
-      "DebugActionIndex": 84
+      "DebugActionIndex": 85
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.XRModule.dll",
@@ -1425,7 +1436,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.XRModule.dll"
       ],
-      "DebugActionIndex": 85
+      "DebugActionIndex": 86
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.dll",
@@ -1437,113 +1448,101 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.dll"
       ],
-      "DebugActionIndex": 86
+      "DebugActionIndex": 87
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/Assembly-CSharp.dll",
       "DisplayName": "Copying Assembly-CSharp.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/shuku/Desktop/unity dosylar/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.dll"
+        "C:/Users/shuku/Documents/GitHub/Trust-and-Treachery/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.dll"
       ],
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/Assembly-CSharp.dll"
       ],
-      "DebugActionIndex": 87
+      "DebugActionIndex": 88
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/Unity.VisualScripting.Core.dll",
       "DisplayName": "Copying Unity.VisualScripting.Core.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/shuku/Desktop/unity dosylar/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.dll"
+        "C:/Users/shuku/Documents/GitHub/Trust-and-Treachery/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.dll"
       ],
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/Unity.VisualScripting.Core.dll"
       ],
-      "DebugActionIndex": 88
+      "DebugActionIndex": 89
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.UI.dll",
       "DisplayName": "Copying UnityEngine.UI.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/shuku/Desktop/unity dosylar/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll"
+        "C:/Users/shuku/Documents/GitHub/Trust-and-Treachery/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll"
       ],
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.UI.dll"
       ],
-      "DebugActionIndex": 89
+      "DebugActionIndex": 90
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/Unity.VisualScripting.Flow.dll",
       "DisplayName": "Copying Unity.VisualScripting.Flow.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/shuku/Desktop/unity dosylar/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.dll"
+        "C:/Users/shuku/Documents/GitHub/Trust-and-Treachery/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.dll"
       ],
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/Unity.VisualScripting.Flow.dll"
       ],
-      "DebugActionIndex": 90
+      "DebugActionIndex": 91
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/PhotonChat.dll",
       "DisplayName": "Copying PhotonChat.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/shuku/Desktop/unity dosylar/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/PhotonChat.dll"
+        "C:/Users/shuku/Documents/GitHub/Trust-and-Treachery/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/PhotonChat.dll"
       ],
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/PhotonChat.dll"
       ],
-      "DebugActionIndex": 91
+      "DebugActionIndex": 92
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/PhotonRealtime.dll",
       "DisplayName": "Copying PhotonRealtime.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/shuku/Desktop/unity dosylar/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/PhotonRealtime.dll"
+        "C:/Users/shuku/Documents/GitHub/Trust-and-Treachery/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/PhotonRealtime.dll"
       ],
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/PhotonRealtime.dll"
       ],
-      "DebugActionIndex": 92
+      "DebugActionIndex": 93
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/Unity.Timeline.dll",
       "DisplayName": "Copying Unity.Timeline.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/shuku/Desktop/unity dosylar/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.dll"
+        "C:/Users/shuku/Documents/GitHub/Trust-and-Treachery/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.dll"
       ],
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/Unity.Timeline.dll"
       ],
-      "DebugActionIndex": 93
+      "DebugActionIndex": 94
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/PhotonUnityNetworking.dll",
       "DisplayName": "Copying PhotonUnityNetworking.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/shuku/Desktop/unity dosylar/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/PhotonUnityNetworking.dll"
+        "C:/Users/shuku/Documents/GitHub/Trust-and-Treachery/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/PhotonUnityNetworking.dll"
       ],
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/PhotonUnityNetworking.dll"
-      ],
-      "DebugActionIndex": 94
-    },
-    {
-      "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/PhotonUnityNetworking.Demos.dll",
-      "DisplayName": "Copying PhotonUnityNetworking.Demos.dll",
-      "ActionType": "CopyFiles",
-      "Inputs": [
-        "C:/Users/shuku/Desktop/unity dosylar/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/PhotonUnityNetworking.Demos.dll"
-      ],
-      "Outputs": [
-        "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/PhotonUnityNetworking.Demos.dll"
       ],
       "DebugActionIndex": 95
     },
@@ -1552,7 +1551,7 @@
       "DisplayName": "Copying PhotonUnityNetworking.Utilities.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/shuku/Desktop/unity dosylar/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/PhotonUnityNetworking.Utilities.dll"
+        "C:/Users/shuku/Documents/GitHub/Trust-and-Treachery/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/PhotonUnityNetworking.Utilities.dll"
       ],
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/PhotonUnityNetworking.Utilities.dll"
@@ -1564,7 +1563,7 @@
       "DisplayName": "Copying Unity.TextMeshPro.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/shuku/Desktop/unity dosylar/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll"
+        "C:/Users/shuku/Documents/GitHub/Trust-and-Treachery/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll"
       ],
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/Unity.TextMeshPro.dll"
@@ -1576,7 +1575,7 @@
       "DisplayName": "Copying Unity.VisualScripting.State.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/shuku/Desktop/unity dosylar/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.dll"
+        "C:/Users/shuku/Documents/GitHub/Trust-and-Treachery/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.dll"
       ],
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/Unity.VisualScripting.State.dll"
@@ -1588,7 +1587,7 @@
       "DisplayName": "Copying websocket-sharp.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/shuku/Desktop/unity dosylar/Trust and Treachery/Assets/Photon/PhotonLibs/WebSocket/websocket-sharp.dll"
+        "C:/Users/shuku/Documents/GitHub/Trust-and-Treachery/Trust and Treachery/Assets/Photon/PhotonLibs/WebSocket/websocket-sharp.dll"
       ],
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/websocket-sharp.dll"
@@ -1600,7 +1599,7 @@
       "DisplayName": "Copying Unity.VisualScripting.Antlr3.Runtime.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/shuku/Desktop/unity dosylar/Trust and Treachery/Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
+        "C:/Users/shuku/Documents/GitHub/Trust-and-Treachery/Trust and Treachery/Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
       ],
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll"
@@ -1612,7 +1611,7 @@
       "DisplayName": "Copying Photon3Unity3D.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/shuku/Desktop/unity dosylar/Trust and Treachery/Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.dll"
+        "C:/Users/shuku/Documents/GitHub/Trust-and-Treachery/Trust and Treachery/Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.dll"
       ],
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/Photon3Unity3D.dll"
@@ -2692,7 +2691,7 @@
       "DisplayName": "Copying Assembly-CSharp.pdb",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/shuku/Desktop/unity dosylar/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.pdb"
+        "C:/Users/shuku/Documents/GitHub/Trust-and-Treachery/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.pdb"
       ],
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/Assembly-CSharp.pdb"
@@ -2704,7 +2703,7 @@
       "DisplayName": "Copying Unity.VisualScripting.Core.pdb",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/shuku/Desktop/unity dosylar/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.pdb"
+        "C:/Users/shuku/Documents/GitHub/Trust-and-Treachery/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.pdb"
       ],
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/Unity.VisualScripting.Core.pdb"
@@ -2716,7 +2715,7 @@
       "DisplayName": "Copying UnityEngine.UI.pdb",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/shuku/Desktop/unity dosylar/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.pdb"
+        "C:/Users/shuku/Documents/GitHub/Trust-and-Treachery/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.pdb"
       ],
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/UnityEngine.UI.pdb"
@@ -2728,7 +2727,7 @@
       "DisplayName": "Copying Unity.VisualScripting.Flow.pdb",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/shuku/Desktop/unity dosylar/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.pdb"
+        "C:/Users/shuku/Documents/GitHub/Trust-and-Treachery/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.pdb"
       ],
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/Unity.VisualScripting.Flow.pdb"
@@ -2740,7 +2739,7 @@
       "DisplayName": "Copying PhotonChat.pdb",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/shuku/Desktop/unity dosylar/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/PhotonChat.pdb"
+        "C:/Users/shuku/Documents/GitHub/Trust-and-Treachery/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/PhotonChat.pdb"
       ],
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/PhotonChat.pdb"
@@ -2752,7 +2751,7 @@
       "DisplayName": "Copying PhotonRealtime.pdb",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/shuku/Desktop/unity dosylar/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/PhotonRealtime.pdb"
+        "C:/Users/shuku/Documents/GitHub/Trust-and-Treachery/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/PhotonRealtime.pdb"
       ],
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/PhotonRealtime.pdb"
@@ -2764,7 +2763,7 @@
       "DisplayName": "Copying Unity.Timeline.pdb",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/shuku/Desktop/unity dosylar/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.pdb"
+        "C:/Users/shuku/Documents/GitHub/Trust-and-Treachery/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.pdb"
       ],
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/Unity.Timeline.pdb"
@@ -2776,7 +2775,7 @@
       "DisplayName": "Copying PhotonUnityNetworking.pdb",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/shuku/Desktop/unity dosylar/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/PhotonUnityNetworking.pdb"
+        "C:/Users/shuku/Documents/GitHub/Trust-and-Treachery/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/PhotonUnityNetworking.pdb"
       ],
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/PhotonUnityNetworking.pdb"
@@ -2784,77 +2783,65 @@
       "DebugActionIndex": 198
     },
     {
-      "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/PhotonUnityNetworking.Demos.pdb",
-      "DisplayName": "Copying PhotonUnityNetworking.Demos.pdb",
-      "ActionType": "CopyFiles",
-      "Inputs": [
-        "C:/Users/shuku/Desktop/unity dosylar/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/PhotonUnityNetworking.Demos.pdb"
-      ],
-      "Outputs": [
-        "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/PhotonUnityNetworking.Demos.pdb"
-      ],
-      "DebugActionIndex": 199
-    },
-    {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/PhotonUnityNetworking.Utilities.pdb",
       "DisplayName": "Copying PhotonUnityNetworking.Utilities.pdb",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/shuku/Desktop/unity dosylar/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/PhotonUnityNetworking.Utilities.pdb"
+        "C:/Users/shuku/Documents/GitHub/Trust-and-Treachery/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/PhotonUnityNetworking.Utilities.pdb"
       ],
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/PhotonUnityNetworking.Utilities.pdb"
       ],
-      "DebugActionIndex": 200
+      "DebugActionIndex": 199
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/Unity.TextMeshPro.pdb",
       "DisplayName": "Copying Unity.TextMeshPro.pdb",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/shuku/Desktop/unity dosylar/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.pdb"
+        "C:/Users/shuku/Documents/GitHub/Trust-and-Treachery/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.pdb"
       ],
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/Unity.TextMeshPro.pdb"
       ],
-      "DebugActionIndex": 201
+      "DebugActionIndex": 200
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/Unity.VisualScripting.State.pdb",
       "DisplayName": "Copying Unity.VisualScripting.State.pdb",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/shuku/Desktop/unity dosylar/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.pdb"
+        "C:/Users/shuku/Documents/GitHub/Trust-and-Treachery/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.pdb"
       ],
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/Unity.VisualScripting.State.pdb"
       ],
-      "DebugActionIndex": 202
+      "DebugActionIndex": 201
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/Photon3Unity3D.pdb",
       "DisplayName": "Copying Photon3Unity3D.pdb",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/shuku/Desktop/unity dosylar/Trust and Treachery/Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.pdb"
+        "C:/Users/shuku/Documents/GitHub/Trust-and-Treachery/Trust and Treachery/Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.pdb"
       ],
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Managed/Photon3Unity3D.pdb"
       ],
-      "DebugActionIndex": 203
+      "DebugActionIndex": 202
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info",
       "DisplayName": "Writing app.info",
       "ActionType": "WriteFile",
-      "PayloadOffset": 16850,
+      "PayloadOffset": 16997,
       "PayloadLength": 34,
       "PayloadDebugContentSnippet": "DefaultCompany\nTrust and Treac",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info"
       ],
-      "DebugActionIndex": 204
+      "DebugActionIndex": 203
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/app.info",
@@ -2867,9 +2854,9 @@
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/app.info"
       ],
       "ToBuildDependencies": [
-        204
+        203
       ],
-      "DebugActionIndex": 205
+      "DebugActionIndex": 204
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Resources/unity default resources",
@@ -2881,7 +2868,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery_Data/Resources/unity default resources"
       ],
-      "DebugActionIndex": 206
+      "DebugActionIndex": 205
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery.exe",
@@ -2893,7 +2880,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/Trust and Treachery.exe"
       ],
-      "DebugActionIndex": 207
+      "DebugActionIndex": 206
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll",
@@ -2905,7 +2892,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll"
       ],
-      "DebugActionIndex": 208
+      "DebugActionIndex": 207
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll",
@@ -2917,7 +2904,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll"
       ],
-      "DebugActionIndex": 209
+      "DebugActionIndex": 208
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser",
@@ -2929,7 +2916,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser"
       ],
-      "DebugActionIndex": 210
+      "DebugActionIndex": 209
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx",
@@ -2941,7 +2928,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx"
       ],
-      "DebugActionIndex": 211
+      "DebugActionIndex": 210
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/MonoBleedingEdge/etc/mono/2.0/machine.config",
@@ -2953,7 +2940,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/MonoBleedingEdge/etc/mono/2.0/machine.config"
       ],
-      "DebugActionIndex": 212
+      "DebugActionIndex": 211
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/MonoBleedingEdge/etc/mono/2.0/settings.map",
@@ -2965,7 +2952,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/MonoBleedingEdge/etc/mono/2.0/settings.map"
       ],
-      "DebugActionIndex": 213
+      "DebugActionIndex": 212
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/MonoBleedingEdge/etc/mono/2.0/web.config",
@@ -2977,7 +2964,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/MonoBleedingEdge/etc/mono/2.0/web.config"
       ],
-      "DebugActionIndex": 214
+      "DebugActionIndex": 213
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser",
@@ -2989,7 +2976,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser"
       ],
-      "DebugActionIndex": 215
+      "DebugActionIndex": 214
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx",
@@ -3001,7 +2988,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx"
       ],
-      "DebugActionIndex": 216
+      "DebugActionIndex": 215
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/MonoBleedingEdge/etc/mono/4.0/machine.config",
@@ -3013,7 +3000,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/MonoBleedingEdge/etc/mono/4.0/machine.config"
       ],
-      "DebugActionIndex": 217
+      "DebugActionIndex": 216
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/MonoBleedingEdge/etc/mono/4.0/settings.map",
@@ -3025,7 +3012,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/MonoBleedingEdge/etc/mono/4.0/settings.map"
       ],
-      "DebugActionIndex": 218
+      "DebugActionIndex": 217
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/MonoBleedingEdge/etc/mono/4.0/web.config",
@@ -3037,7 +3024,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/MonoBleedingEdge/etc/mono/4.0/web.config"
       ],
-      "DebugActionIndex": 219
+      "DebugActionIndex": 218
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser",
@@ -3049,7 +3036,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser"
       ],
-      "DebugActionIndex": 220
+      "DebugActionIndex": 219
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx",
@@ -3061,7 +3048,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx"
       ],
-      "DebugActionIndex": 221
+      "DebugActionIndex": 220
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/MonoBleedingEdge/etc/mono/4.5/machine.config",
@@ -3073,7 +3060,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/MonoBleedingEdge/etc/mono/4.5/machine.config"
       ],
-      "DebugActionIndex": 222
+      "DebugActionIndex": 221
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/MonoBleedingEdge/etc/mono/4.5/settings.map",
@@ -3085,7 +3072,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/MonoBleedingEdge/etc/mono/4.5/settings.map"
       ],
-      "DebugActionIndex": 223
+      "DebugActionIndex": 222
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/MonoBleedingEdge/etc/mono/4.5/web.config",
@@ -3097,7 +3084,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/MonoBleedingEdge/etc/mono/4.5/web.config"
       ],
-      "DebugActionIndex": 224
+      "DebugActionIndex": 223
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/MonoBleedingEdge/etc/mono/browscap.ini",
@@ -3109,7 +3096,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/MonoBleedingEdge/etc/mono/browscap.ini"
       ],
-      "DebugActionIndex": 225
+      "DebugActionIndex": 224
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/MonoBleedingEdge/etc/mono/config",
@@ -3121,7 +3108,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/MonoBleedingEdge/etc/mono/config"
       ],
-      "DebugActionIndex": 226
+      "DebugActionIndex": 225
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/MonoBleedingEdge/etc/mono/mconfig/config.xml",
@@ -3133,7 +3120,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/MonoBleedingEdge/etc/mono/mconfig/config.xml"
       ],
-      "DebugActionIndex": 227
+      "DebugActionIndex": 226
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/UnityCrashHandler64.exe",
@@ -3145,7 +3132,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/UnityCrashHandler64.exe"
       ],
-      "DebugActionIndex": 228
+      "DebugActionIndex": 227
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/UnityPlayer.dll",
@@ -3157,7 +3144,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/UnityPlayer.dll"
       ],
-      "DebugActionIndex": 229
+      "DebugActionIndex": 228
     },
     {
       "Annotation": "CopyFiles C:/Users/shuku/Desktop/Yeni klasör/WinPixEventRuntime.dll",
@@ -3169,7 +3156,7 @@
       "Outputs": [
         "C:/Users/shuku/Desktop/Yeni klasör/WinPixEventRuntime.dll"
       ],
-      "DebugActionIndex": 230
+      "DebugActionIndex": 229
     },
     {
       "Annotation": "Player",
@@ -3192,7 +3179,7 @@
         13,
         14,
         15,
-        18,
+        16,
         19,
         20,
         21,
@@ -3377,7 +3364,7 @@
         200,
         201,
         202,
-        203,
+        204,
         205,
         206,
         207,
@@ -3402,11 +3389,10 @@
         226,
         227,
         228,
-        229,
-        230
+        229
       ],
       "OverwriteOutputs": false,
-      "DebugActionIndex": 231
+      "DebugActionIndex": 230
     }
   ],
   "FileSignatures": [
@@ -3803,51 +3789,6 @@
       "File": "C:/Program Files/Unity/Hub/Editor/2022.3.27f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_development_mono/Data/Resources"
     },
     {
-      "File": "C:/Users/shuku/Desktop/unity dosylar/Trust and Treachery/Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.pdb"
-    },
-    {
-      "File": "C:/Users/shuku/Desktop/unity dosylar/Trust and Treachery/Assets/Photon/PhotonLibs/WebSocket/websocket-sharp.pdb"
-    },
-    {
-      "File": "C:/Users/shuku/Desktop/unity dosylar/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.pdb"
-    },
-    {
-      "File": "C:/Users/shuku/Desktop/unity dosylar/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/PhotonChat.pdb"
-    },
-    {
-      "File": "C:/Users/shuku/Desktop/unity dosylar/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/PhotonRealtime.pdb"
-    },
-    {
-      "File": "C:/Users/shuku/Desktop/unity dosylar/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/PhotonUnityNetworking.Demos.pdb"
-    },
-    {
-      "File": "C:/Users/shuku/Desktop/unity dosylar/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/PhotonUnityNetworking.pdb"
-    },
-    {
-      "File": "C:/Users/shuku/Desktop/unity dosylar/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/PhotonUnityNetworking.Utilities.pdb"
-    },
-    {
-      "File": "C:/Users/shuku/Desktop/unity dosylar/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.pdb"
-    },
-    {
-      "File": "C:/Users/shuku/Desktop/unity dosylar/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.pdb"
-    },
-    {
-      "File": "C:/Users/shuku/Desktop/unity dosylar/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.pdb"
-    },
-    {
-      "File": "C:/Users/shuku/Desktop/unity dosylar/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.pdb"
-    },
-    {
-      "File": "C:/Users/shuku/Desktop/unity dosylar/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.pdb"
-    },
-    {
-      "File": "C:/Users/shuku/Desktop/unity dosylar/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.pdb"
-    },
-    {
-      "File": "C:/Users/shuku/Desktop/unity dosylar/Trust and Treachery/Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.pdb"
-    },
-    {
       "File": "C:/Users/shuku/Desktop/Yeni klasör/GameAssembly.dll"
     },
     {
@@ -3855,6 +3796,48 @@
     },
     {
       "File": "C:/Users/shuku/Desktop/Yeni klasör/UnityCommon.props"
+    },
+    {
+      "File": "C:/Users/shuku/Documents/GitHub/Trust-and-Treachery/Trust and Treachery/Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.pdb"
+    },
+    {
+      "File": "C:/Users/shuku/Documents/GitHub/Trust-and-Treachery/Trust and Treachery/Assets/Photon/PhotonLibs/WebSocket/websocket-sharp.pdb"
+    },
+    {
+      "File": "C:/Users/shuku/Documents/GitHub/Trust-and-Treachery/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.pdb"
+    },
+    {
+      "File": "C:/Users/shuku/Documents/GitHub/Trust-and-Treachery/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/PhotonChat.pdb"
+    },
+    {
+      "File": "C:/Users/shuku/Documents/GitHub/Trust-and-Treachery/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/PhotonRealtime.pdb"
+    },
+    {
+      "File": "C:/Users/shuku/Documents/GitHub/Trust-and-Treachery/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/PhotonUnityNetworking.pdb"
+    },
+    {
+      "File": "C:/Users/shuku/Documents/GitHub/Trust-and-Treachery/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/PhotonUnityNetworking.Utilities.pdb"
+    },
+    {
+      "File": "C:/Users/shuku/Documents/GitHub/Trust-and-Treachery/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.pdb"
+    },
+    {
+      "File": "C:/Users/shuku/Documents/GitHub/Trust-and-Treachery/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.pdb"
+    },
+    {
+      "File": "C:/Users/shuku/Documents/GitHub/Trust-and-Treachery/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.pdb"
+    },
+    {
+      "File": "C:/Users/shuku/Documents/GitHub/Trust-and-Treachery/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.pdb"
+    },
+    {
+      "File": "C:/Users/shuku/Documents/GitHub/Trust-and-Treachery/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.pdb"
+    },
+    {
+      "File": "C:/Users/shuku/Documents/GitHub/Trust-and-Treachery/Trust and Treachery/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.pdb"
+    },
+    {
+      "File": "C:/Users/shuku/Documents/GitHub/Trust-and-Treachery/Trust and Treachery/Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.pdb"
     },
     {
       "File": "Library/Bee/Player96c53f02-inputdata.json"
@@ -3919,7 +3902,7 @@
   "EmitDataForBeeWhy": 0,
         "NamedNodes": {
           "all_tundra_nodes": 0,
-          "Player": 231
+          "Player": 230
         }
 ,  "DefaultNodes": [
     0
@@ -3927,6 +3910,6 @@
   "SharedResources": [],
   "Scanners": [],
   "Identifier": "Library/Bee/Player96c53f02.dag.json",
-  "PayloadsFile": "C:/Users/shuku/Desktop/unity dosylar/Trust and Treachery/Library/Bee/Player96c53f02.dag.payloads",
+  "PayloadsFile": "C:/Users/shuku/Documents/GitHub/Trust-and-Treachery/Trust and Treachery/Library/Bee/Player96c53f02.dag.payloads",
   "RelativePathToRoot": "../.."
 }
