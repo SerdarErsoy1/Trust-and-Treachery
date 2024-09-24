@@ -384,6 +384,10 @@
 "Assets/Scripts/Network.cs"
 "Assets/Scripts/PlayerInfo.cs"
 "Assets/Scripts/PlayerMov.cs"
+"Assets/Scripts/Task/KeypadTask.cs"
+"Assets/Scripts/Task/SwipeCard.cs"
+"Assets/Scripts/Task/SwipePoint.cs"
+"Assets/Scripts/Task/SwipeTask.cs"
 -langversion:9.0
 /deterministic
 /optimize+
